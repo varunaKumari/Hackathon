@@ -26,6 +26,7 @@ This Turborepo includes the following packages/apps:
 
 Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
 
+![image alt](https://github.com/varunaKumari/Hackathon/blob/a66e97a81120214cf226fe410e93237803b75ec4/Screenshot%202025-02-02%20204521.png)
 ### Utilities
 
 This Turborepo has some additional tools already setup for you:
