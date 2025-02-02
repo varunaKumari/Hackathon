@@ -34,6 +34,7 @@ This Turborepo has some additional tools already setup for you:
 - [TypeScript](https://www.typescriptlang.org/) for static type checking
 - [ESLint](https://eslint.org/) for code linting
 - [Prettier](https://prettier.io) for code formatting
+  ![image alt](https://github.com/varunaKumari/Hackathon/blob/51dc60b6c093ceee921baaefa70fcc862be9f627/Screenshot%202025-02-02%20204651.png)
 
 ### Build
 
