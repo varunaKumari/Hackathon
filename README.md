@@ -2,7 +2,7 @@
 
 This Turborepo starter is maintained by the Turborepo core team.
 
-https://github.com/varunaKumari/Hackathon/blob/main/Screenshot%202025-02-02%20204446.png
+https://github.com/varunaKumari/Hackathon/blob/main/Screenshot%202025-02-02%20204446.png?raw=true
 
 ## Using this example
 
